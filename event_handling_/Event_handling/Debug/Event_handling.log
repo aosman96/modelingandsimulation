@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ahmos\source\repos\event_handling\event_handling\source.cpp(37): warning C4305: '+=': truncation from 'double' to 'float'
+  Event_handling.vcxproj -> C:\Users\ahmos\source\repos\Event_handling\Debug\Event_handling.exe
+  Event_handling.vcxproj -> C:\Users\ahmos\source\repos\Event_handling\Debug\Event_handling.pdb (Partial PDB)
